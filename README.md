@@ -3,7 +3,6 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/Apollon77/daikin-controller.svg)](https://greenkeeper.io/)
 [![NPM version](http://img.shields.io/npm/v/daikin-controller.svg)](https://www.npmjs.com/package/daikin-controller)
 [![Downloads](https://img.shields.io/npm/dm/daikin-controller.svg)](https://www.npmjs.com/package/daikin-controller)
-[![Dependency Status](https://gemnasium.com/badges/github.com/Apollon77/daikin-controller.svg)](https://gemnasium.com/github.com/Apollon77/daikin-controller)
 [![Code Climate](https://codeclimate.com/github/Apollon77/daikin-controller/badges/gpa.svg)](https://codeclimate.com/github/Apollon77/daikin-controller)
 
 **Tests:**
@@ -205,6 +204,9 @@ The following endpoints  (according to ...) are currently not implemented and ca
 * /aircon/get_day_paower_ex
 
 ## Changelog
+
+### v1.1.3 (01.02.2019)
+* optimize handling of communication errors
 
 ### v1.1.2 (29.04.2018)
 * fix error handling for communication errors
